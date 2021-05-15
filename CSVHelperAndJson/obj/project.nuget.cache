@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2NkZCHj+4HGJtuPcV31i8KGwsWL8gfxr///3I9dn7I76FN+jjbVIgJIlNj2BZOEW6BxEyEUmwU+jyegjVluZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SANTANU\\source\\repos\\CSVHelperAndJson\\CSVHelperAndJson\\CSVHelperAndJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANTANU\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512",
+    "C:\\Users\\SANTANU\\.nuget\\packages\\json.net\\1.0.31\\json.net.1.0.31.nupkg.sha512",
+    "C:\\Users\\SANTANU\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\SANTANU\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
